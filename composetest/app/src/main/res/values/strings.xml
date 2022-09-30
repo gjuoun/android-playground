@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">compose-test</string>
+    <string name="greeting_name">Jun</string>
+</resources>
